@@ -1,0 +1,1295 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": [
+    {
+      "cid": 142131283,
+      "page": 1,
+      "from": "vupload",
+      "part": "01.Jenkins课程大纲介绍",
+      "duration": 142,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131317,
+      "page": 2,
+      "from": "vupload",
+      "part": "02.软件开发生命周期介绍",
+      "duration": 238,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131369,
+      "page": 3,
+      "from": "vupload",
+      "part": "03.软件开发的瀑布模型",
+      "duration": 351,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131420,
+      "page": 4,
+      "from": "vupload",
+      "part": "04.软件开发的敏捷开发",
+      "duration": 454,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131519,
+      "page": 5,
+      "from": "vupload",
+      "part": "05.什么是持续集成",
+      "duration": 329,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131584,
+      "page": 6,
+      "from": "vupload",
+      "part": "06.持续集成的组成要素",
+      "duration": 205,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131631,
+      "page": 7,
+      "from": "vupload",
+      "part": "07.持续集成的好处",
+      "duration": 158,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131670,
+      "page": 8,
+      "from": "vupload",
+      "part": "08.Jenkins软件介绍",
+      "duration": 236,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131722,
+      "page": 9,
+      "from": "vupload",
+      "part": "09.持续集成流程说明",
+      "duration": 241,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131768,
+      "page": 10,
+      "from": "vupload",
+      "part": "10.安装Gitlab代码托管服务",
+      "duration": 830,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131947,
+      "page": 11,
+      "from": "vupload",
+      "part": "11.Gitlab添加组，创建用户，创建项目",
+      "duration": 629,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132073,
+      "page": 12,
+      "from": "vupload",
+      "part": "12.源码上传到Gitlab仓库",
+      "duration": 265,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132132,
+      "page": 13,
+      "from": "vupload",
+      "part": "13.持续集成环境(1)-Jenkins软件安装",
+      "duration": 565,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132319,
+      "page": 14,
+      "from": "vupload",
+      "part": "14.持续集成环境(2)-Jenkins插件管理",
+      "duration": 523,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132416,
+      "page": 15,
+      "from": "vupload",
+      "part": "15.持续集成环境(3)-Jenkins用户权限管理",
+      "duration": 869,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132535,
+      "page": 16,
+      "from": "vupload",
+      "part": "16-安装凭证插件",
+      "duration": 261,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132589,
+      "page": 17,
+      "from": "vupload",
+      "part": "17.-普通用户密码凭证",
+      "duration": 468,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132704,
+      "page": 18,
+      "from": "vupload",
+      "part": "18.SSH私钥凭证",
+      "duration": 379,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132817,
+      "page": 19,
+      "from": "vupload",
+      "part": "19.持续集成环境(5)-Maven安装和配置",
+      "duration": 952,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142132994,
+      "page": 20,
+      "from": "vupload",
+      "part": "20.持续集成环境(6)-Tomcat安装和配置",
+      "duration": 544,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133109,
+      "page": 21,
+      "from": "vupload",
+      "part": "21.Jenkins构建的项目类型介绍",
+      "duration": 304,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133145,
+      "page": 22,
+      "from": "vupload",
+      "part": "22.自由风格项目构建",
+      "duration": 670,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133233,
+      "page": 23,
+      "from": "vupload",
+      "part": "23.演示代码改动后的持续集成",
+      "duration": 250,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133272,
+      "page": 24,
+      "from": "vupload",
+      "part": "24.JMaven项目构建",
+      "duration": 391,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133349,
+      "page": 25,
+      "from": "vupload",
+      "part": "25.Pipeline简介",
+      "duration": 334,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133385,
+      "page": 26,
+      "from": "vupload",
+      "part": "26.Pipeline语法快速入门",
+      "duration": 591,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133440,
+      "page": 27,
+      "from": "vupload",
+      "part": "27-拉取Gitlab脚本编写",
+      "duration": 390,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133568,
+      "page": 28,
+      "from": "vupload",
+      "part": "28-编译构建与远程部署脚本编写",
+      "duration": 305,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131314,
+      "page": 29,
+      "from": "vupload",
+      "part": "29.-管理Jenkinsfile脚本文件",
+      "duration": 339,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133768,
+      "page": 30,
+      "from": "vupload",
+      "part": "30.常见的构建触发器(上)",
+      "duration": 624,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142133945,
+      "page": 31,
+      "from": "vupload",
+      "part": "31.Jenkins项目构建细节(1)-常见的构建触发器(下)",
+      "duration": 684,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134071,
+      "page": 32,
+      "from": "vupload",
+      "part": "32.Jenkins项目构建细节(2)-Git hook自动触发构建",
+      "duration": 777,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134221,
+      "page": 33,
+      "from": "vupload",
+      "part": "33.Jenkins项目构建细节(3)-Jenkins的参数化构建",
+      "duration": 538,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134313,
+      "page": 34,
+      "from": "vupload",
+      "part": "34.Jenkins项目构建细节(4)-整合邮件服务-01-Jenkins配置邮箱服务",
+      "duration": 522,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134406,
+      "page": 35,
+      "from": "vupload",
+      "part": "35.Jenkins项目构建细节(4)-整合邮件服务-02-项目构建结果发送邮件通知",
+      "duration": 863,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134595,
+      "page": 36,
+      "from": "vupload",
+      "part": "36.SonarQube代码审查(1) - 安装SonarQube",
+      "duration": 807,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134711,
+      "page": 37,
+      "from": "vupload",
+      "part": "37.SonarQube代码审查(2) - Jenkins与SonarQube整合",
+      "duration": 544,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134786,
+      "page": 38,
+      "from": "vupload",
+      "part": "38.SonarQube代码审查(3)-在项目添加SonaQube代码审查（非流水线项目）",
+      "duration": 808,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142134896,
+      "page": 39,
+      "from": "vupload",
+      "part": "39.SonarQube代码审查(4)-在项目添加SonaQube代码审查（流水线项目）",
+      "duration": 612,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135002,
+      "page": 40,
+      "from": "vupload",
+      "part": "40.总结前面三章的内容",
+      "duration": 223,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135044,
+      "page": 41,
+      "from": "vupload",
+      "part": "41.Jenkins、Docker、SpringCloud持续集成流程说明",
+      "duration": 349,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135085,
+      "page": 42,
+      "from": "vupload",
+      "part": "42.SpringCloud微服务源码概述",
+      "duration": 322,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135135,
+      "page": 43,
+      "from": "vupload",
+      "part": "43.本地部署(1)-SpringCloud微服务-IDEA运行测试",
+      "duration": 318,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135185,
+      "page": 44,
+      "from": "vupload",
+      "part": "44.本地部署(1)-SpringCloud微服务部署-本地打包和运行",
+      "duration": 504,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135305,
+      "page": 45,
+      "from": "vupload",
+      "part": "45.本地部署(2)-前端静态web网站",
+      "duration": 306,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135345,
+      "page": 46,
+      "from": "vupload",
+      "part": "46.环境准备(1)-Docker快速入门-Docker简介",
+      "duration": 375,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135419,
+      "page": 47,
+      "from": "vupload",
+      "part": "47.环境准备(1)-Docker安装",
+      "duration": 396,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135510,
+      "page": 48,
+      "from": "vupload",
+      "part": "48.环境准备(1)-镜像相关命令",
+      "duration": 216,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135558,
+      "page": 49,
+      "from": "vupload",
+      "part": "49.环境准备(1)-容器相关命令",
+      "duration": 652,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135671,
+      "page": 50,
+      "from": "vupload",
+      "part": "50.环境准备(2)-Dockerfile简介和常见命令",
+      "duration": 277,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135725,
+      "page": 51,
+      "from": "vupload",
+      "part": "51.环境准备(2)-使用Dockerfile制作微服务镜像",
+      "duration": 442,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135806,
+      "page": 52,
+      "from": "vupload",
+      "part": "52.环境准备(3)-Harbor简介和安装",
+      "duration": 524,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135893,
+      "page": 53,
+      "from": "vupload",
+      "part": "53.环境准备(3)-在Harbor创建用户和项目",
+      "duration": 364,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142135943,
+      "page": 54,
+      "from": "vupload",
+      "part": "54.环境准备(3)-把本地镜像上传到Harbor仓库",
+      "duration": 450,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136028,
+      "page": 55,
+      "from": "vupload",
+      "part": "55.环境准备(3)-从Harbor下载镜像",
+      "duration": 218,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136085,
+      "page": 56,
+      "from": "vupload",
+      "part": "56.微服务持续集成(1)-项目代码上传到Gitlab",
+      "duration": 641,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136226,
+      "page": 57,
+      "from": "vupload",
+      "part": "57.微服务持续集成(2)-从Gitlab拉取项目源码",
+      "duration": 495,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136315,
+      "page": 58,
+      "from": "vupload",
+      "part": "58.微服务持续集成(3)-提交到SonarQube代码审查",
+      "duration": 962,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136496,
+      "page": 59,
+      "from": "vupload",
+      "part": "59.微服务持续集成(4)-编译打包微服务工程",
+      "duration": 972,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136738,
+      "page": 60,
+      "from": "vupload",
+      "part": "60.微服务持续集成(4)-使用Dockerfile插件生成镜像",
+      "duration": 871,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142136927,
+      "page": 61,
+      "from": "vupload",
+      "part": "61.微服务持续集成(5)-上传到Harbor镜像仓库",
+      "duration": 1065,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137150,
+      "page": 62,
+      "from": "vupload",
+      "part": "62.微服务持续集成(6)-拉取镜像和发布应用",
+      "duration": 1084,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137362,
+      "page": 63,
+      "from": "vupload",
+      "part": "63.微服务持续集成(6)-部署和测试所有微服务",
+      "duration": 671,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137547,
+      "page": 64,
+      "from": "vupload",
+      "part": "64.微服务持续集成(7)-部署前端静态web网站",
+      "duration": 845,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137729,
+      "page": 65,
+      "from": "vupload",
+      "part": "65.Jenkins与SpringCloud部署方案优化",
+      "duration": 145,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137782,
+      "page": 66,
+      "from": "vupload",
+      "part": "66.Jenkins与SpringCloud集群部署流程说明",
+      "duration": 153,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137844,
+      "page": 67,
+      "from": "vupload",
+      "part": "67.修改所有微服务配置",
+      "duration": 297,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142137939,
+      "page": 68,
+      "from": "vupload",
+      "part": "68.设计Jenkins集群项目的多选类型参数",
+      "duration": 376,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138027,
+      "page": 69,
+      "from": "vupload",
+      "part": "69.把多个项目提交SonarQube进行代码审查",
+      "duration": 416,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138124,
+      "page": 70,
+      "from": "vupload",
+      "part": "70.多个项目打包及构建上传镜像",
+      "duration": 310,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138230,
+      "page": 71,
+      "from": "vupload",
+      "part": "71.把Eureka注册中心集群部署到多台服务器",
+      "duration": 953,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138412,
+      "page": 72,
+      "from": "vupload",
+      "part": "72.把其他微服务集群部署到多台服务器",
+      "duration": 285,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138500,
+      "page": 73,
+      "from": "vupload",
+      "part": "73.Nginx与Zuul集群实现高可用网关",
+      "duration": 409,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138581,
+      "page": 74,
+      "from": "vupload",
+      "part": "74.什么是Master-Slave分布式构建",
+      "duration": 147,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138614,
+      "page": 75,
+      "from": "vupload",
+      "part": "75.利用Jenkins的Slave节点构建项目",
+      "duration": 689,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138729,
+      "page": 76,
+      "from": "vupload",
+      "part": "76.Kubernetes实现Master-Slave分布式构建方案",
+      "duration": 534,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138764,
+      "page": 77,
+      "from": "vupload",
+      "part": "77.Kubernetes的架构介绍",
+      "duration": 225,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142138803,
+      "page": 78,
+      "from": "vupload",
+      "part": "78.Kubernetes安装-环境设置及工具安装",
+      "duration": 961,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139012,
+      "page": 79,
+      "from": "vupload",
+      "part": "79.Kubernetes安装-Master节点初始化",
+      "duration": 215,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139070,
+      "page": 80,
+      "from": "vupload",
+      "part": "80.Kubernetes安装-Master节点安装Calico网络组件",
+      "duration": 308,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142131368,
+      "page": 81,
+      "from": "vupload",
+      "part": "81.Kubernetes安装-Slave节点绑定到Master节点",
+      "duration": 246,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139172,
+      "page": 82,
+      "from": "vupload",
+      "part": "82.安装和配置NFS文件共享服务器",
+      "duration": 556,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139252,
+      "page": 83,
+      "from": "vupload",
+      "part": "83.Kubernetes安装Jenkins-Master",
+      "duration": 778,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139406,
+      "page": 84,
+      "from": "vupload",
+      "part": "84.Jenkins-Master基本插件安装",
+      "duration": 382,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139511,
+      "page": 85,
+      "from": "vupload",
+      "part": "85.Jenkins安装Kubernetes插件",
+      "duration": 210,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139579,
+      "page": 86,
+      "from": "vupload",
+      "part": "86.构建Jenkins-Slave自定义镜像",
+      "duration": 361,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139693,
+      "page": 87,
+      "from": "vupload",
+      "part": "87.测试Jenkins-Slave创建",
+      "duration": 474,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139805,
+      "page": 88,
+      "from": "vupload",
+      "part": "88.使用Jenkins-Slave完成微服务镜像构建",
+      "duration": 919,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142139983,
+      "page": 89,
+      "from": "vupload",
+      "part": "89.安装Kubernetes Continuous Deploy插件",
+      "duration": 283,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142140073,
+      "page": 90,
+      "from": "vupload",
+      "part": "90.完成Eureka集群部署到Kubernetes",
+      "duration": 784,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142140285,
+      "page": 91,
+      "from": "vupload",
+      "part": "91.完成Zuul网关集群部署到Kubernetes",
+      "duration": 247,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 142140353,
+      "page": 92,
+      "from": "vupload",
+      "part": "92.课程总结",
+      "duration": 280,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+      }
+    }
+  ]
+}
